@@ -2,6 +2,8 @@
 
 A BERT-based text classification system fine-tuned on the Jigsaw Toxic Comment dataset. The project includes a training notebook, a REST API built with FastAPI, and an interactive Streamlit interface for real-time inference.
 
+**Live Demo:** [app link](https://djouaheryasmine-toxic-comments-model-app-msrkyo.streamlit.app/)
+
 ---
 
 ## Overview
